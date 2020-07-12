@@ -7,6 +7,7 @@ int main()
   int t;
   cin>>t;
   while(t--){
+    
    long long int n,k,e=0,l=0,m=0;
     cin>>n>>k;
     int A[n];
